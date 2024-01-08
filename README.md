@@ -1,4 +1,4 @@
-# 力口题解
+# 力扣题解
 
 ## 1. 数组（8）
 
@@ -26,20 +26,21 @@
 
 ## 3. 哈希表（7）
 
-| 序号 | 题目                                                                                               | 难度 | 题解                                                                                     | 备注                |
-| ---- | -------------------------------------------------------------------------------------------------- | ---- | ---------------------------------------------------------------------------------------- | ------------------- |
+| 序号 | 题目                                                                                                  | 难度 | 题解                                                                                        | 备注              |
+|------|-------------------------------------------------------------------------------------------------------|------|---------------------------------------------------------------------------------------------|-------------------|
 | 1    | [两数之和](https://leetcode.cn/problems/two-sum/description/)                                         | 简单 | [solution](./problems/1_two_sum_两数之和_EASY)                                              | `map`             |
 | 49   | [字母异位词分组](https://leetcode.cn/problems/group-anagrams/description/)                            | 中等 | [solution](./problems/49_grop_anagrams_字母异位词分组_MEDIUM)                               | 自定义 `hash`函数 |
 | 202  | [快乐数](https://leetcode.cn/problems/happy-number/description/)                                      | 简单 | [solution](./problems/202_happy_number_快乐数_EASY)                                         | `set`查重         |
-| 242  | [有效的字母异位词](https://leetcode.cn/problems/valid-anagram/description/)                           | 简单 | [solution](./problems/242_valid_anagram_有效的字母异位词_EASY)                              |                     |
-| 383  | [赎金信](https://leetcode.cn/problems/ransom-note/description/)                                       | 简单 | [solution](./problems/383_ransom_note_赎金信_EASY)                                          |                     |
-| 438  | [找到字符串中所有字母异位词](https://leetcode.cn/problems/find-all-anagrams-in-a-string/description/) | 中等 | [solution](./problems/438_find_all_anagrams_in_a_string_找到字符串中所有字母异位词_MEDIUM/) |                     |
-| 454  | [四数相加](https://leetcode.cn/problems/4sum-ii/description/)                                         | 中等 | [solution](./problems/454_4sum_II_四数相加II_MEDIUM)                                        |                     |
+| 242  | [有效的字母异位词](https://leetcode.cn/problems/valid-anagram/description/)                           | 简单 | [solution](./problems/242_valid_anagram_有效的字母异位词_EASY)                              |                   |
+| 383  | [赎金信](https://leetcode.cn/problems/ransom-note/description/)                                       | 简单 | [solution](./problems/383_ransom_note_赎金信_EASY)                                          |                   |
+| 438  | [找到字符串中所有字母异位词](https://leetcode.cn/problems/find-all-anagrams-in-a-string/description/) | 中等 | [solution](./problems/438_find_all_anagrams_in_a_string_找到字符串中所有字母异位词_MEDIUM/) |                   |
+| 454  | [四数相加II](https://leetcode.cn/problems/4sum-ii/description/)                                       | 中等 | [solution](./problems/454_4sum_II_四数相加II_MEDIUM)                                        |                   |
 
 ## 4. 双指针法 (3)
 
-| 序号 | 题目                                                                                  | 难度 | 题解                                                                                   | 备注          |
-| ---- | ------------------------------------------------------------------------------------- | ---- | -------------------------------------------------------------------------------------- | ------------- |
+| 序号 | 题目                                                                                     | 难度 | 题解                                                                                      | 备注          |
+|------|------------------------------------------------------------------------------------------|------|-------------------------------------------------------------------------------------------|---------------|
 | 15   | [三数之和](https://leetcode.cn/problems/3sum/description/)                               | 中等 | [solution](./problems/15_3sum_三数之和_MEDIUM)                                            | 双指针法-左右 |
+| 18   | [四数之和](https://leetcode.cn/problems/4sum/description/)                               | 中等 | [solution](./problems/18_4sum_四数之和_MEDIUM)                                            | 双指针法-左右 |
 | 19   | [删除链表的倒数第N个节点](https://leetcode.cn/problems/remove-nth-node-from-end-of-list) | 中等 | [solution](./problems/19_remove_nth_node_from_end_of_list_删除链表的倒数第N个节点_MEDIUM) | 双指针法      |
 | 142  | [环形链表](https://leetcode.cn/problems/linked-list-cycle-ii/description/)II             | 中等 | [solution](./problems/142_linked_list_cycle_II_环形链表_MEDIUM)                           | 双指针法-快慢 |

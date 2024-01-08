@@ -197,3 +197,5 @@ cython_debug/
 
 *_cpp
 *dSYM
+
+problems/test*
