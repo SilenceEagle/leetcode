@@ -49,13 +49,16 @@
 | 459       | [重复的子字符串](https://leetcode.cn/problems/repeated-substring-pattern/description/)                                         | 简单 | [solution](./problems/459_repeated_substring_pattern_重复的子字符串_EASY)                                        | KMP算法        |
 | 55 (kama) | [右旋字符串](https://kamacoder.com/problempage.php?pid=1065)                                                                   | 简单 | [solution](./problems/kama_55_right_rotate_string_右旋字符串_EASY)                                               | 整体-局部-反转 |
 
-### 5. 栈与队列
+### 5. 栈与队列 (6)
 
-| 序号 | 题目                                                                                   | 难度 | 题解                                                                      | 备注     |
-|------|----------------------------------------------------------------------------------------|------|---------------------------------------------------------------------------|----------|
-| 225  | [用队列实现栈](https://leetcode.cn/problems/implement-stack-using-queues/description/) | 简单 | [solution](./problems/232_implement_queue_using_stacks_用栈实现队列_EASY) |          |
-| 232  | [用栈实现队列](https://leetcode.cn/problems/implement-queue-using-stacks/description/) | 简单 | [solution](./problems/232_implement_queue_using_stacks_用栈实现队列_EASY) | 入栈出栈 |
-
+| 序号 | 题目                                                                                                            | 难度 | 题解                                                                                                | 备注     |
+| ---- | --------------------------------------------------------------------------------------------------------------- | ---- | --------------------------------------------------------------------------------------------------- | -------- |
+| 20   | [有效的括号](https://leetcode.cn/problems/valid-parentheses/description/)                                          | 简单 | [solution](./problems/20_valid_parentheses_有效的括号_EASY)                                            |          |
+| 225  | [用队列实现栈](https://leetcode.cn/problems/implement-stack-using-queues/description/)                             | 简单 | [solution](./problems/232_implement_queue_using_stacks_用栈实现队列_EASY)                              |          |
+| 232  | [用栈实现队列](https://leetcode.cn/problems/implement-queue-using-stacks/description/)                             | 简单 | [solution](./problems/232_implement_queue_using_stacks_用栈实现队列_EASY)                              | 入栈出栈 |
+| 239  | [滑动窗口最大值](https://leetcode.cn/problems/sliding-window-maximum/description/)                                 | 困难 | [solution](./problems/239_sliding_window_maximum_滑动窗口最大值_HARD)                                  | 单调队列 |
+| 347  | [前 K 个高频元素](https://leetcode.cn/problems/top-k-frequent-elements/)                                           | 中等 | [solution](./problems/347_top_k_frequent_elements_前K个高频元素_MEDIUM)                                | 优先队列 |
+| 1047 | [删除字符串中的所有相邻重复项](https://leetcode.cn/problems/remove-all-adjacent-duplicates-in-string/description/) | 简单 | [solution](./problems/1047_remove_all_adjacent_duplicates_in_string_删除字符串中的所有相邻重复项_EASY) |          |
 
 ## 算法
 

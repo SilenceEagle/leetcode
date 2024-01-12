@@ -5,12 +5,23 @@
     "version": "0.2.0",
     "configurations": [
         {
+            "name": "Python: Current File",
+            "type": "python",
+            "request": "launch",
+            "program": "${file}",
+            "console": "integratedTerminal",
+            "justMyCode": true
+        },
+        {
             "name": "LLDB Plugin Launch",
             "type": "lldb",
             "request": "launch",
             "program": "${fileDirname}/${fileBasenameNoExtension}",
-            "args": ["-arg1", "-arg2"],
+            "args": [
+                "-arg1",
+                "-arg2"
+            ],
         }
     ],
-    "externalConsole": false 
+    "externalConsole": false
 }
