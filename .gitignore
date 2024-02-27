@@ -194,6 +194,9 @@ cython_debug/
 *.exe
 *.out
 *.app
+*.pdb
+*.ilk
+
 
 *_cpp
 *dSYM
