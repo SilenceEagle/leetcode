@@ -61,7 +61,7 @@
 | 347  | [前 K 个高频元素](https://leetcode.cn/problems/top-k-frequent-elements/)                                           | 中等 | [solution](./problems/347_top_k_frequent_elements_前K个高频元素_MEDIUM)                                | 优先队列 |
 | 1047 | [删除字符串中的所有相邻重复项](https://leetcode.cn/problems/remove-all-adjacent-duplicates-in-string/description/) | 简单 | [solution](./problems/1047_remove_all_adjacent_duplicates_in_string_删除字符串中的所有相邻重复项_EASY) |          |
 
-### 6. 二叉树 (18)
+### 6. 二叉树 (20)
 
 | 序号 | 题目                                                                                                                   | 难度 | 题解                                                                                                        | 备注 |
 | ---- | ---------------------------------------------------------------------------------------------------------------------- | ---- | ----------------------------------------------------------------------------------------------------------- | ---- |
@@ -72,6 +72,7 @@
 | 107  | [二叉树的层序遍历II](https://leetcode.cn/problems/binary-tree-level-order-traversal-ii/description/)                      | 中等 | [solution](./problems/107_binary_tree_level_order_traversal_II_二叉树的层序遍历II_MEDIUM)                      | 队列 |
 | 110  | [平衡二叉树](https://leetcode.cn/problems/balanced-binary-tree/description/)                                              | EASY | [solution](./problems/110_balanced_binary_tree_平衡二叉树_EASY)                                                |      |
 | 111  | [二叉树的最小深度](https://leetcode.cn/problems/minimum-depth-of-binary-tree/description/)                                | 简单 | [solution](./problems/111_minimum_depth_of_binary_tree_二叉树的最小深度_EASY)                                  | 队列 |
+| 112  | [路径总和](https://leetcode.cn/problems/path-sum/description/)                                                            | 简单 | [solution](./problems/112_path_sum_路径总和_EASY/)                                                             |      |
 | 116  | [填充每个节点的下一个右侧节点指针](https://leetcode.cn/problems/populating-next-right-pointers-in-each-node/description/) | 中等 | [solution](./problems/116_populating_next_right_pointers_in_each_node_填充每个节点的下一个右侧节点指针_MEDIUM) | 队列 |
 | 144  | [二叉树的前序遍历](https://leetcode.cn/problems/binary-tree-preorder-traversal/description/)                              | 简单 | [solution](./problems/144_binary_tree_preorder_traversal_二叉树的前序遍历_EASY)                                | 栈   |
 | 145  | [二叉树的后序遍历](https://leetcode.cn/problems/binary-tree-postorder-traversal/description/)                             | 简单 | [solution](./problems/145_binary_tree_postorder_traversal_二叉树的后序遍历_EASY/)                              | 栈   |
@@ -79,7 +80,7 @@
 | 222  | [完全二叉树的节点个数](https://leetcode.cn/problems/count-complete-tree-nodes/description/)                               | 简单 | [solution](./problems/222_count_complete_tree_nodes_完全二叉树的节点个数_EASY)                                 |      |
 | 226  | [翻转二叉树](https://leetcode.cn/problems/invert-binary-tree/description/)                                                | 简单 | [solution](./problems/226_invert_binary_tree_翻转二叉树_EASY)                                                  |      |
 | 257  | [二叉树的所有路径](https://leetcode.cn/problems/binary-tree-paths/description/)                                           | 简单 | [solution](./problems/257_binary_tree_paths_二叉树的所有路径_EASY)                                             | 回溯 |
-| 404  | [左叶子之和](https://leetcode.cn/problems/sum-of-left-leaves/)                                                            | 简单 |    [solution](./problems/404_sum_of_left_leaves_左叶子之和_EASY/)                                                                                                         |      |
+| 404  | [左叶子之和](https://leetcode.cn/problems/sum-of-left-leaves/)                                                            | 简单 | [solution](./problems/404_sum_of_left_leaves_左叶子之和_EASY/)                                                 |      |
 | 429  | [N叉树的层序遍历](https://leetcode.cn/problems/n-ary-tree-level-order-traversal/description/)                             | 中等 | [solution](./problems/429_n_ary_tree_level_order_traversal_N叉树的层序遍历_MEDIUM)                             | 队列 |
 | 515  | [在每个树行中找最大值](https://leetcode.cn/problems/find-largest-value-in-each-tree-row/description/)                     | 中等 | [solution](./problems/515_find_largest_value_in_each_tree_row_在每个树行中找最大值_MEDIUM)                     | 队列 |
 | 527  | [另一颗树的子树](https://leetcode.cn/problems/subtree-of-another-tree/description/)                                       | 简单 | [solution](./problems/527_subtree_of_another_tree_另一颗树的子树_EASY)                                         | KMP  |
