@@ -61,7 +61,7 @@
 | 347  | [前 K 个高频元素](https://leetcode.cn/problems/top-k-frequent-elements/)                                           | 中等 | [solution](./problems/347_top_k_frequent_elements_前K个高频元素_MEDIUM)                                | 优先队列 |
 | 1047 | [删除字符串中的所有相邻重复项](https://leetcode.cn/problems/remove-all-adjacent-duplicates-in-string/description/) | 简单 | [solution](./problems/1047_remove_all_adjacent_duplicates_in_string_删除字符串中的所有相邻重复项_EASY) |          |
 
-### 6. 二叉树 (20)
+### 6. 二叉树 (21)
 
 | 序号 | 题目                                                                                                                   | 难度 | 题解                                                                                                        | 备注 |
 | ---- | ---------------------------------------------------------------------------------------------------------------------- | ---- | ----------------------------------------------------------------------------------------------------------- | ---- |
@@ -73,6 +73,7 @@
 | 110  | [平衡二叉树](https://leetcode.cn/problems/balanced-binary-tree/description/)                                              | EASY | [solution](./problems/110_balanced_binary_tree_平衡二叉树_EASY)                                                |      |
 | 111  | [二叉树的最小深度](https://leetcode.cn/problems/minimum-depth-of-binary-tree/description/)                                | 简单 | [solution](./problems/111_minimum_depth_of_binary_tree_二叉树的最小深度_EASY)                                  | 队列 |
 | 112  | [路径总和](https://leetcode.cn/problems/path-sum/description/)                                                            | 简单 | [solution](./problems/112_path_sum_路径总和_EASY/)                                                             |      |
+| 113  | [路径总和II](https://leetcode.cn/problems/path-sum-ii/description/)                                                       | 中等 | [solution](./problems/113_path_sum_II_路径总和II_MEDIUM/)                                                      |      |
 | 116  | [填充每个节点的下一个右侧节点指针](https://leetcode.cn/problems/populating-next-right-pointers-in-each-node/description/) | 中等 | [solution](./problems/116_populating_next_right_pointers_in_each_node_填充每个节点的下一个右侧节点指针_MEDIUM) | 队列 |
 | 144  | [二叉树的前序遍历](https://leetcode.cn/problems/binary-tree-preorder-traversal/description/)                              | 简单 | [solution](./problems/144_binary_tree_preorder_traversal_二叉树的前序遍历_EASY)                                | 栈   |
 | 145  | [二叉树的后序遍历](https://leetcode.cn/problems/binary-tree-postorder-traversal/description/)                             | 简单 | [solution](./problems/145_binary_tree_postorder_traversal_二叉树的后序遍历_EASY/)                              | 栈   |
