@@ -63,7 +63,7 @@
 | 347  | [前 K 个高频元素](https://leetcode.cn/problems/top-k-frequent-elements/)                                           | 中等 | [solution](./problems/347_top_k_frequent_elements_前K个高频元素_MEDIUM)                                | 优先队列 |
 | 1047 | [删除字符串中的所有相邻重复项](https://leetcode.cn/problems/remove-all-adjacent-duplicates-in-string/description/) | 简单 | [solution](./problems/1047_remove_all_adjacent_duplicates_in_string_删除字符串中的所有相邻重复项_EASY) |          |
 
-### 6. 二叉树 (27)
+### 6. 二叉树 (28)
 
 | 序号 | 题目                                                                                                                                   | 难度 | 题解                                                                                                                         | 备注     |
 |------|----------------------------------------------------------------------------------------------------------------------------------------|------|------------------------------------------------------------------------------------------------------------------------------|----------|
@@ -87,6 +87,7 @@
 | 257  | [二叉树的所有路径](https://leetcode.cn/problems/binary-tree-paths/description/)                                                        | 简单 | [solution](./problems/257_binary_tree_paths_二叉树的所有路径_EASY)                                                           | 回溯     |
 | 404  | [左叶子之和](https://leetcode.cn/problems/sum-of-left-leaves/)                                                                         | 简单 | [solution](./problems/404_sum_of_left_leaves_左叶子之和_EASY/)                                                               |          |
 | 429  | [N叉树的层序遍历](https://leetcode.cn/problems/n-ary-tree-level-order-traversal/description/)                                          | 中等 | [solution](./problems/429_n_ary_tree_level_order_traversal_N叉树的层序遍历_MEDIUM)                                           | 队列     |
+| 501  | [二叉搜索树中的众数](https://leetcode.cn/problems/find-mode-in-binary-search-tree/description/)                                        | 简单 | [solution](./problems/501_find_mode_in_binary_search_tree_二叉搜索树中的众数_EASY/)                                          |          |
 | 515  | [在每个树行中找最大值](https://leetcode.cn/problems/find-largest-value-in-each-tree-row/description/)                                  | 中等 | [solution](./problems/515_find_largest_value_in_each_tree_row_在每个树行中找最大值_MEDIUM)                                   | 队列     |
 | 527  | [另一颗树的子树](https://leetcode.cn/problems/subtree-of-another-tree/description/)                                                    | 简单 | [solution](./problems/527_subtree_of_another_tree_另一颗树的子树_EASY)                                                       | KMP      |
 | 530  | [二叉搜索树的最小绝对差](https://leetcode.cn/problems/minimum-absolute-difference-in-bst/description/)                                 | 简单 | [solution](./problems/530_minimum_absolute_difference_in_bst_二叉搜索树的最小绝对差_EASY/)                                   |          |
